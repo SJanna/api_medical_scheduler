@@ -1,14 +1,13 @@
-# api_medial_schudeler
+### Medical Scheduler API
 
-## Technology:
+#### Technology:
 Django Rest Framework
 
-
-## API: 
+#### API: 
 Implements authentication and handles appointment data.
 
-## Key Models:
-### 🟢 Persona: 
+#### Key Models:
+##### 🟢 Persona: 
 Manages user details including first name, last name, identification number, and mobile number.
-### 🟢 Appointments: 
+##### 🟢 Appointments: 
 Stores appointment details such as location, date and time, associated person, description, and status.
